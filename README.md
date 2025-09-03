@@ -84,6 +84,9 @@ Prerequisite thing is npx, ensure it is setup before that. Then instal with `Add
 }
 ```
 
+And here is the image of the setup.
+![Gitlab MCP server setup](./src/gitlab-mcp-server-setup.png)
+
 This provide AI to get access to the pipeline information and now I can ask with the following prompt
 
 ### The prompt
